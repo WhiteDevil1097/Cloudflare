@@ -9,7 +9,7 @@
 <br>
 
 
-- Cloudfalre Free Version 
+- Cloudflare Free Version 
 
 * `Upload Any Files just sec.`
 
